@@ -1,5 +1,11 @@
 # production_monitoring_system
 
+## 🚀 Project Roadmap
+- [ ] Responsive UI/UX Design (Vuetify)
+- [ ] State Management & Logic (Vuex)
+- [ ] Backend API Development (Node.js/Express)
+- [ ] Database Integration (MongoDB/PostgreSQL)
+
 ## Project setup
 ```
 npm install
